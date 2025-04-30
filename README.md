@@ -11,6 +11,9 @@ There are 3 Python scripts included:
 
 The only thing you need to do is add your username to the code.
 
+## 🖥️ Executable file included
+**Additionally, you can go to releases to get the newest executable file**
+
 ---
 
 ## 📂 Categorizer
